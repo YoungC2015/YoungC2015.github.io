@@ -1,10 +1,11 @@
 ---
 layout: post
 date:   2016-03-17 00:00:00
+categories: 文章翻译
 tags:   crypto ctf
 ---
 
-<img src="{{ site.baseurl }}/images/glibc.jpg">
+<img src="{{ site.baseurl }}/images/glibc.jpg"><br>
 感谢0CTF，上交大这次举办了一个挺有深度的CTF比赛。
 
 这次比赛有一道web题，题目很简单，大致如下：
