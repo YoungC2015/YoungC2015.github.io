@@ -2,7 +2,7 @@
 layout: post
 date:   2017-07-11 15:14:54
 categories: 学习笔记
-tags:   linux shellcode pwnable.kr
+tags:   linux shellcode pwnable.kr heap
 ---
 # 壹、 linux下基本shellcode的编写 *(pwnable，asm)*
 
@@ -148,5 +148,3 @@ Seccomp(secure computing)是Linux kernel （自从2.6.23版本之后）所支持
 表明允许open这一系统调用的进行。
 
 注，gcc编译时应该使用 -lseccomp参数
-
----
